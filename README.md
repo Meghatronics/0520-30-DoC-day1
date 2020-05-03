@@ -1,16 +1,14 @@
-# day1_30doc
+# day2_30doc
 
-A new Flutter project.
+A flutter project that loads 20 movies from TMDB using their API and displays them in a interactive list.
+On tap, movie backdrop and details are displayed.
 
-## Getting Started
+See screenshots below.
 
-This project is a starting point for a Flutter application.
+![App Landing Screen](AppImages/movieList.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+![App Display Movie from API](AppImages/movieSample1.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![App Display Movie from API](AppImages/movieSample2.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Display Movie from API](AppImages/movieSample3.jpg)
