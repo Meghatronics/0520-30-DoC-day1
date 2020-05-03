@@ -5,10 +5,10 @@ On tap, movie backdrop and details are displayed.
 
 See screenshots below.
 
-![App Landing Screen](AppImages/movieList.jpg)
+<img src="AppImages/movieList.jpg" width="300">
 
-![App Display Movie from API](AppImages/movieSample1.jpg)
+<img src="AppImages/movieSample1.jpg" width="300">
 
-![App Display Movie from API](AppImages/movieSample2.jpg)
+<img src="AppImages/movieSample2.jpg" width="300">
 
-![App Display Movie from API](AppImages/movieSample3.jpg)
+<img src="AppImages/movieSample3.jpg" width="300">
